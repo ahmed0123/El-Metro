@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D50000</color>
+    <color name="colorPrimaryDark">#B71C1C</color>
+    <color name="colorAccent">#EF9A9A</color>
+    <color name="stationBox">#ca3a3a</color>
+    <color name="firstStation">#52d500</color>
+    <color name="backGround">#bbbcba</color>
+
+
+</resources>
